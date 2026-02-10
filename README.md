@@ -4,12 +4,13 @@
 
 **언젠가 꽃이 될 개발자**
 
-Spring 생태계와 React를 기반으로 서비스를 만들고,<br/>
-배운 것을 [기술 블로그](https://dandev.tistory.com/)에 238편 이상 기록하고 있습니다.
+Kotlin/Java & Spring 기반 백엔드 개발자 (2년 5개월)<br/>
+문제 해결에 능동적으로 임하며, 배운 것을 [기술 블로그](https://dandev.tistory.com/)에 238편 이상 기록하고 있습니다.
 
 <br/>
 
 [![Blog](https://img.shields.io/badge/Tech_Blog-dandev.tistory.com-FF5722?style=flat&logo=tistory&logoColor=white)](https://dandev.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Email-dandev@naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:dandev@naver.com)
 [![GitHub followers](https://img.shields.io/github/followers/grapeppodo?style=flat&logo=github&label=Follow&color=6366F1)](https://github.com/grapeppodo)
 [![Profile Views](https://komarev.com/ghpvc/?username=grapeppodo&style=flat&color=6366F1&label=Profile+Views)](https://github.com/grapeppodo)
 
@@ -23,17 +24,18 @@ Spring 생태계와 React를 기반으로 서비스를 만들고,<br/>
 
 **Language**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge&logo=databricks&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=databricks&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Frontend**
 
@@ -42,11 +44,23 @@ Spring 생태계와 React를 기반으로 서비스를 만들고,<br/>
 
 **Database & Infra**
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+### Certifications
+
+| 자격증 | 비고 |
+|--------|------|
+| 정보처리산업기사 | 한국산업인력공단 |
+| SQLD | 한국데이터산업진흥원 |
 
 ---
 
@@ -65,17 +79,26 @@ Spring 생태계와 React를 기반으로 서비스를 만들고,<br/>
 
 ---
 
-### Featured Project
+### Featured Projects
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
-#### [DailyMind](https://github.com/grapeppodo/dailymind) - 하루의 마음을 기록하다
+#### [SpringSecurityAuthApp](https://github.com/grapeppodo/SpringSecurityAuthApp)
+
+OTP 기반 2단계 인증(MFA) 시스템. Spring Security FilterChain 커스터마이징, JWT 인가, Docker Compose 멀티 컨테이너 구성.
+
+`Java 17` `Spring Security 6` `JWT` `Docker` `Kubernetes`
+
+</td>
+<td width="50%">
+
+#### [DailyMind](https://github.com/grapeppodo/dailymind)
 
 감정 일기 웹 애플리케이션. 매일의 감정을 기록하고 캘린더와 통계로 돌아볼 수 있습니다.
 
-`Kotlin` `Spring Boot` `React` `TypeScript` `Tailwind CSS` `JPA`
+`Kotlin` `Spring Boot 3` `React` `TypeScript` `Tailwind CSS`
 
 </td>
 </tr>
