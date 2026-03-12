@@ -20,8 +20,8 @@ AI와 함께 아이디어를 현실로 만드는 걸 좋아하는 개발자입�
 
 #### 기술
 
-`Java` `Spring Boot` `Python` `Flutter` `React` `TypeScript` `MySQL` `Docker`
+`Java` `Kotlin` `Spring Boot` `Python` `Flutter` `React` `TypeScript` `MySQL` `Docker`
 
 ---
 
-<sub>🤖 AI는 도구이고, 판단은 내가 합니다.</sub>
+<sub>AI는 도구이고, 판단은 내가 합니다.</sub>
